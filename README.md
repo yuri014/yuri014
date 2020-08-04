@@ -1,4 +1,4 @@
 ### Hi there 👋
 
    -I am currently learning these programming languages :books: :
-   -![Logo](logo-java.jpg)Java
+   <img src="logo-java.jpg" width="30"> - Java
