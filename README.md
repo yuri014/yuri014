@@ -13,6 +13,6 @@
    
    <img src="https://img.shields.io/badge/-JavaScript-1C1C1C?style=flat&logo=Javascript&logoColor=yellow">
    
-   <img src="https://github.com/yuri014/yuri014/blob/master/logo-js.png" width="30"> - Javascript
+   <img src="https://img.shields.io/badge/-Java-1C1C1C?style=flat&logo=Java&logoColor=red">
    
-   <img src="https://github.com/yuri014/yuri014/blob/master/logo-python.png" width="30"> - Python
+   <img src="https://img.shields.io/badge/-Python-1C1C1C?style=flat&logo=Python&logoColor=blue">
