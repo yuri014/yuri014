@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <p>
-   <a href="https://www.linkedin.com/in/yuri-flores-53b2b41a4" target="_blank" >
+   <a href="https://www.linkedin.com/in/yuri-flores-53b2b41a4" >
    <img src="https://img.shields.io/badge/-YuriFlores-008B8B?style=flat&logo=Linkedin&logoColor=white">
    </a>
-   <a href="" >
+   <a href="mailto:yuriflores2012@gmail.com" >
    <img src="https://img.shields.io/badge/Gmail--green?logo=gmail&logoColor=red&style=social">
    </a>
 </p>
