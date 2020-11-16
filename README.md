@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/-Java-1C1C1C?style=flat&logo=Java&logoColor=red">
 
 <img src="https://img.shields.io/badge/-Python-1C1C1C?style=flat&logo=Python&logoColor=blue">
-<div style="background-color: #050211; border-radius: 8px">
 
 ```javascript
 const programmingSkills = {
@@ -36,5 +35,3 @@ const programmingSkills = {
   }
 };
 ```
-
-</div>
