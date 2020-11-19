@@ -1,7 +1,6 @@
 # Hello World! 👋
 
 ## I'm Yuri and I'm trying to write code that everybody can understand! 💻
-
 <p align="center">
    <img src="./assets/dev.svg" alt="dev image" width="400" height="400">
 </p>
@@ -35,3 +34,15 @@ const programmingSkills = {
   }
 };
 ```
+
+<center>
+   <table>
+     <tr>
+         <td>
+            <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri014&hide=html&layout=compact&theme=radical" />           </td>
+         <td>
+            <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=yuri014&theme=radical&show_icons=true" />
+        </td>
+     </tr>  
+   </table>
+</center>
