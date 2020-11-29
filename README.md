@@ -14,19 +14,21 @@
    </a>
 </p>
 
-> I am currently learning these programming languages 📚 :
+> I am currently learning the JavaScript ecosystem 📚 :
 
 <img src="https://img.shields.io/badge/-JavaScript-1C1C1C?style=flat&logo=Javascript&logoColor=yellow">
 
-<img src="https://img.shields.io/badge/-Java-1C1C1C?style=flat&logo=Java&logoColor=red">
+<img src="https://img.shields.io/badge/-ECMAScript 6-1C1C1C?style=flat&logo=Javascript&logoColor=yellow">
 
-<img src="https://img.shields.io/badge/-Python-1C1C1C?style=flat&logo=Python&logoColor=blue">
+<img src="https://img.shields.io/badge/-TypeScript-1C1C1C?style=flat&logo=TypeScript&logoColor=blue">
+
+<img src="https://img.shields.io/badge/-React-1C1C1C?style=flat&logo=React&logoColor=blue">
 
 ```javascript
 const programmingSkills = {
   frontEnd: {
     languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
-    frameworksAndLibs: ['React.js', 'Bootstrap', 'Material-UI', 'Gatsby'],
+    frameworksAndLibs: ['React.js', 'Bootstrap', 'Material-UI', 'Gatsby', 'Jest', 'Enzyme'],
   },
   backEnd: {
      languages: ['Java', 'Python'],
