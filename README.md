@@ -29,10 +29,6 @@ const programmingSkills = {
   frontEnd: {
     languages: ['HTML', 'CSS', 'JavaScript', 'TypeScript'],
     frameworksAndLibs: ['React.js', 'Bootstrap', 'Material-UI', 'Gatsby', 'Jest', 'Enzyme'],
-  },
-  backEnd: {
-     languages: ['Java', 'Python'],
-     frameworks: ['Spring Framework', 'Django']
   }
 };
 ```
